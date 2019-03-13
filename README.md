@@ -2,6 +2,10 @@
 
 一个iOS开发人员
 
+# 置顶
+
+[你需要一台Mac](you_need_a_mac.md)
+
 # 目录
 
 ## [iOS开发入门](iOS开发入门.md)
