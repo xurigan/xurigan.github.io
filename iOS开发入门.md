@@ -1,6 +1,6 @@
 # 目录
 
-## 你需要一台Mac
+## [你需要一台Mac](you_need_a_mac.md)
 
 ## Apple ID
 
