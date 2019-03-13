@@ -12,7 +12,7 @@
 
 ### 1.1.1.MacBook Air
 
-​	￥9499
+​	￥9499起，定位轻薄、随性、长续航的商务本，你可以观看[产品影片](https://www.apple.com/105/media/cn/macbook-air/2018/9f419882_aefd_4083_902e_efcaee17a0b8/films/product/mba-product-tpl-cn-2018_1280x720h.mp4)和[产品展示](https://www.apple.com/105/media/ww/macbook-air/2018/9f419882_aefd_4083_902e_efcaee17a0b8/films/reveal/mba-reveal-tpl-ww-2018_1280x720h.mp4)。
 
 ### 1.1.2.MacBook
 
@@ -104,5 +104,7 @@
 
 ### 2.5.3.其他C2C二手平台
 
-​	坑太多，容易翻车，不推荐
+​	坑太多，容易翻车，**不推荐**
+
+
 
