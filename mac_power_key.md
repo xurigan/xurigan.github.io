@@ -2,11 +2,11 @@
 
 最近使用公司配的MacBook Pro，发现想按delete键时很容易不小心按到Power键关闭显示器，delete键的使用是很高频的，但是总按到power给我带来很多不便
 
-![](/Users/xurigan/Desktop/Snip20190517_1.png)
+![](https://github.com/xurigan/xurigan.github.io/blob/master/resource/Snip20190517_1.png)
 
 启动终端，输入如下命令：
 
-```Ruby
+```ruby
 defaults write com.apple.loginwindow PowerButtonSleepsSystem -bool no
 ```
 
@@ -14,7 +14,7 @@ defaults write com.apple.loginwindow PowerButtonSleepsSystem -bool no
 
 现在如果点按电源按钮是没有任何反应的，只有长按才会出现
 
-![](/Users/xurigan/Documents/GitHub/xurigan.github.io/resource/Snip20190517_3.png)
+![](https://github.com/xurigan/xurigan.github.io/blob/master/resource/Snip20190517_3.png)
 
 如果想恢复原来的设置 no 改成 yes就可以了
 
